@@ -2,10 +2,10 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-pre",
-"repo":"https://github.com/mvaisakh/oneplus9pro.git",
-"branch":"main",
+"repo":"https://github.com/arter97/android_kernel_oneplus_sm8350.git",
+"branch":"topaz",
 "device":"lemonade",
-"defconfig":"vendor/lahaina-nqgki_defconfig"
+"defconfig":"gki_defconfig"
 },
 "withKernelSU":true,
 "toolchains":[
