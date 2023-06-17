@@ -5,7 +5,7 @@
 "repo":"https://github.com/arter97/android_kernel_oneplus_sm8350.git",
 "branch":"topaz",
 "device":"lemonade",
-"defconfig":"gki_defconfig"
+"defconfig":"aospa-oneplus9_defconfig"
 },
 "withKernelSU":true,
 "toolchains":[
