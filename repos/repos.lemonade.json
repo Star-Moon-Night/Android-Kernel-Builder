@@ -10,7 +10,7 @@
 "withKernelSU":true,
 "toolchains":[
 {
-"url":"https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.6/clang+llvm-16.0.6-powerpc64le-linux-rhel-8.7.tar.xz",
+"url":"https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/master-kernel-build-2022/clang-r450784d.tar.gz",
 "name":"clang",
 "binPath": ["bin"]
 }
