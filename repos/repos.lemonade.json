@@ -2,37 +2,37 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-pre",
-"repo":"https://github.com/arter97/android_kernel_oneplus_sm8350.git",
-"branch":"topaz",
+"repo":"https://github.com/mvaisakh/oneplus9pro.git",
+"branch":"main",
 "device":"lemonade",
-"defconfig":"aospa-oneplus9_defconfig"
+"defconfig":"vendor/lahaina-nqgki_defconfig"
 },
 "withKernelSU":true,
 "toolchains":[
 {
-"repo":"https://github.com/kdrag0n/proton-clang",
-"branch":"master",
-"name":"proton-clang",
+"repo":"https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
+"branch":"17",
+"name":"clang",
 "binPath": ["bin"]
 }
 ],
 "params": {
       "ARCH": "arm64",
-      "CC": "proton-clang/bin/clang",
+      "CC": "clang/bin/clang",
       "externalCommand": {
-        "CROSS_COMPILE": "proton-clang/bin/aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "proton-clang/bin/arm-linux-gnueabi-",
-        "LD": "proton-clang/bin/ld.lld",
-        "AR": "proton-clang/bin/llvm-ar",
-        "NM": "proton-clang/bin/llvm-nm",
-        "OBJCOPY": "proton-clang/bin/llvm-objcopy",
-        "OBJDUMP": "proton-clang/bin/llvm-objdump",
-        "READELF": "proton-clang/bin/llvm-readelf",
-        "OBJSIZE": "proton-clang/bin/llvm-size",
-        "STRIP": "proton-clang/bin/llvm-strip",
-        "LDGOLD": "proton-clang/bin/aarch64-linux-gnu-ld.gold",
-        "LLVM_AR": "proton-clang/bin/llvm-ar",
-        "LLVM_DIS": "proton-clang/bin/llvm-dis"
+        "CROSS_COMPILE": "clang/bin/aarch64-linux-gnu-",
+        "CROSS_COMPILE_ARM32": "clang/bin/arm-linux-gnueabi-",
+        "LD": "clang/bin/ld.lld",
+        "AR": "clang/bin/llvm-ar",
+        "NM": "clang/bin/llvm-nm",
+        "OBJCOPY": "clang/bin/llvm-objcopy",
+        "OBJDUMP": "clang/bin/llvm-objdump",
+        "READELF": "clang/bin/llvm-readelf",
+        "OBJSIZE": "clang/bin/llvm-size",
+        "STRIP": "clang/bin/llvm-strip",
+        "LDGOLD": "clang/bin/aarch64-linux-gnu-ld.gold",
+        "LLVM_AR": "clang/bin/llvm-ar",
+        "LLVM_DIS": "clang/bin/llvm-dis"
       }
     },
     "AnyKernel3": {
