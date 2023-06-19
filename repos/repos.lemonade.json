@@ -2,10 +2,10 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-pre",
-"repo":"https://github.com/Star-Moon-Night/op9.git",
-"branch":"blu_spark-13-custom",
+"repo":"https://github.com/mvaisakh/oneplus9pro.git",
+"branch":"main",
 "device":"lemonade",
-"defconfig":"blu_spark_defconfig"
+"defconfig":"vendor/lahaina-nqgki_defconfig"
 },
 "withKernelSU":true,
 "toolchains":[
