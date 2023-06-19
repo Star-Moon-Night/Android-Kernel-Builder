@@ -1,7 +1,7 @@
 [
   {
 "kernelSource":{
-"name":"StarMoonNight-KernelSU-pre",
+"name":"StarMoonNight-KernelSU",
 "repo":"https://github.com/PixelExperience-Lemonadep/kernel_oneplus_sm8350.git",
 "branch":"twelve",
 "device":"lemonade",
