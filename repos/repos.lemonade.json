@@ -2,7 +2,7 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-pre",
-"repo":"https://github.com/engstk/op9.git",
+"repo":"https://github.com/Star-Moon-Night/op9.git",
 "branch":"blu_spark-13-custom",
 "device":"lemonade",
 "defconfig":"blu_spark_defconfig"
