@@ -1,7 +1,7 @@
 [
   {
 "kernelSource":{
-"name":"StarMoonNight-KernelSU-pre",
+"name":"StarMoonNight-KernelSU-XT",
 "repo":"https://github.com/Xtended-Devices/kernel_oneplus_sm8350.git",
 "branch":"xt",
 "device":"lemonade",
