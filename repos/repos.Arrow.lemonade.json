@@ -3,7 +3,7 @@
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-Arrow",
 "repo":"https://github.com/ArrowOS-Devices/android_kernel_oneplus_sm8350.git",
-"branch":"13.0",
+"branch":"arrow-13.1",
 "device":"lemonade",
 "defconfig":"vendor/lahaina-qgki_defconfig"
 },
