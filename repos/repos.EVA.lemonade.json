@@ -2,7 +2,7 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-EVA",
-"repo":"https://github.com/mvaisakh/oneplus9pro.git",
+"repo":"https://github.com/Star-Moon-Night/oneplus9pro.git",
 "branch":"main",
 "device":"lemonade",
 "defconfig":"vendor/lahaina-nqgki_defconfig"
