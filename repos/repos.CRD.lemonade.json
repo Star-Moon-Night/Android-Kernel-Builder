@@ -2,8 +2,8 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-CRD",
-"repo":"https://github.com/Xtended-Devices/kernel_oneplus_sm8350.git",
-"branch":"13",
+"repo":"https://github.com/crdroidandroid/android_kernel_oneplus_sm8350.git",
+"branch":"13.0",
 "device":"lemonade",
 "defconfig":"vendor/lahaina-qgki_defconfig"
 },
