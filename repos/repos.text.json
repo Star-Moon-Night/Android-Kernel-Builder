@@ -2,10 +2,10 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KernelSU-TEXT",
-"repo":"https://github.com/arter97/android_kernel_oneplus_sm8350.git",
-"branch":"oneplus/sm8350_t_13.1.0_oneplus9",
-"device":"master",
-"defconfig":"gki_defconfig"
+"repo":"https://github.com/Rinko-Studio/android_kernel_xiaomi_elish.git",
+"branch":"arrow-13.0",
+"device":"elish",
+"defconfig":"elish_user_defconfig"
 },
 "withKernelSU":true,
 "toolchains":[
