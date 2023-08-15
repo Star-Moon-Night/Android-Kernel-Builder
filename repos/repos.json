@@ -2,8 +2,8 @@
   {
 "kernelSource":{
 "name":"StarMoonNight-KerneKSU-BLU",
-"repo":"https://github.com/LineageOS/android_kernel_xiaomi_sm8350.git",
-"branch":"lineage-20",
+"repo":"https://github.com/ProjectElixir-Devices/kernel_xiaomi_haydn.git",
+"branch":"Tiramisu",
 "device":"K40P",
 "defconfig":"vendor/lahaina-qgki_defconfig"
 },
