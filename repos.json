@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/W-Ripe/android_kernel_xiaomi_sm8350.git",
-      "branch": "baseline",
+      "repo": "https://github.com/Inkypen79/kernel_xiaomi_odin.git",
+      "branch": "lineage-21.0",
       "device": "odin"
     },
     "withKernelSU": true,
