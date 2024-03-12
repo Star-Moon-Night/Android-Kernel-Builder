@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/Inkypen79/kernel_xiaomi_odin.git",
-      "branch": "ksu",
+      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_modina.git",
+      "branch": "Udon",
       "device": "odin"
     },
     "withKernelSU": true,
