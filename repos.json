@@ -2,8 +2,8 @@
     {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/imjyotiraditya/msm-5.4-odin.git",
-      "branch": "topaz",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git",
+      "branch": "odin-r-oss",
       "device": "odin"
     },
     "withKernelSU": true,
