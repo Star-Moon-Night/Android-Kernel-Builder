@@ -2,7 +2,7 @@
     {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/imjyotiraditya/msm-5.4-odin/tree/topaz/arch/arm64/configs",
+      "repo": "https://github.com/imjyotiraditya/msm-5.4-odin.git",
       "branch": "topaz",
       "device": "odin"
     },
