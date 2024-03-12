@@ -2,8 +2,8 @@
     {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/Star-Moon-Night/Miku_kernel_xiaomi_modina.git",
-      "branch": "Udon",
+      "repo": "https://github.com/imjyotiraditya/msm-5.4-odin/tree/topaz/arch/arm64/configs",
+      "branch": "topaz",
       "device": "odin"
     },
     "withKernelSU": true,
