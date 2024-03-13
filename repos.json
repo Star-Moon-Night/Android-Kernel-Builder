@@ -14,7 +14,7 @@
         "name": "gas"
       },
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/android12-release/clang-r416183b/",
+        "repo": "https://gitlab.com/mizdrake7/zyc_clang.git",
         "branch": "master",
         "name": "clang"
       }
