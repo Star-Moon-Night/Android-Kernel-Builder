@@ -2,8 +2,8 @@
     {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/keiko233/kernel_xiaomi_odin.git",
-      "branch": "TDA",
+      "repo": "https://github.com/engstk/op8.git",
+      "branch": "blu_spark-14-custom",
       "device": "odin"
     },
     "withKernelSU": true,
