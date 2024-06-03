@@ -2,9 +2,9 @@
     {
     "kernelSource": {
       "name": "miku-KernelSU",
-      "repo": "https://github.com/engstk/op8.git",
+      "repo": "https://github.com/engstk/op9.git",
       "branch": "blu_spark-14-custom",
-      "device": "odin"
+      "device": "lemo"
     },
     "withKernelSU": true,
     "toolchains": [
